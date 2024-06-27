@@ -36,9 +36,14 @@ The script consists of the following main components:
 
 ## Examples
 
-| Before | After |
-| ------ | ----- |
-| ![ex](https://raw.githubusercontent.com/ifmain/shadow_remover/main/ex/1_b.webp) | ![ex](https://raw.githubusercontent.com/ifmain/shadow_remover/main/ex/1_a.webp) |
+| Before | After | Source |
+| ------ | ----- | ------ |
+| ![ex](https://raw.githubusercontent.com/ifmain/shadow_remover/main/ex/1_b.webp) | ![ex](https://raw.githubusercontent.com/ifmain/shadow_remover/main/ex/1_a.webp) | SD 3 |
+| ![ex](https://raw.githubusercontent.com/ifmain/shadow_remover/main/ex/2_b.png) | ![ex](https://raw.githubusercontent.com/ifmain/shadow_remover/main/ex/2_a.png) | Steam Game Screenshots FNAF 9 Ruin  |
+| ![ex](https://raw.githubusercontent.com/ifmain/shadow_remover/main/ex/3_b.png) | ![ex](https://raw.githubusercontent.com/ifmain/shadow_remover/main/ex/3_a.png) | Steam Game Screenshots FNAF 9 Ruin  |
+| ![ex](https://raw.githubusercontent.com/ifmain/shadow_remover/main/ex/4_b.png) | ![ex](https://raw.githubusercontent.com/ifmain/shadow_remover/main/ex/4_a.png) | Steam Game Screenshots FNAF 9 Ruin  |
+| ![ex](https://raw.githubusercontent.com/ifmain/shadow_remover/main/ex/5_b.png) | ![ex](https://raw.githubusercontent.com/ifmain/shadow_remover/main/ex/5_a.png) | Steam Game Screenshots FNAF 9 Ruin  |
+| ![ex](https://raw.githubusercontent.com/ifmain/shadow_remover/main/ex/6_b.png) | ![ex](https://raw.githubusercontent.com/ifmain/shadow_remover/main/ex/6_a.png) | Steam Game Screenshots FNAF 9 Ruin  |
 
 ## Prerequisites
 
