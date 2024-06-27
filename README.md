@@ -38,7 +38,7 @@ The script consists of the following main components:
 
 | Before | After |
 | ------ | ----- |
-| ![]([ex](https://raw.githubusercontent.com/ifmain/shadow_remover/main/ex/1_b.webp) | ![]([ex](https://raw.githubusercontent.com/ifmain/shadow_remover/main/ex/1_a.webp) |
+| ![ex](https://raw.githubusercontent.com/ifmain/shadow_remover/main/ex/1_b.webp) | ![ex](https://raw.githubusercontent.com/ifmain/shadow_remover/main/ex/1_a.webp) |
 
 ## Prerequisites
 
